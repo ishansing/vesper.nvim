@@ -5,10 +5,10 @@ local colors = {
 	-- background colors
 	white = "#FFFFFF",
 	black = "#343434",
-	bg = "#101010",
+	bg = "#0f0f0f",
 	bgDark = "#161616",
 	bgDarker = "#232323",
-	bgFloat = "#0f0f0f",
+	bgFloat = "#101010",
 	bgOption = "#343434",
 
 	fg = mix("#FFFFFF", "#000000", math.abs(0.80)),
