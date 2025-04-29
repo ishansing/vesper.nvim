@@ -47,7 +47,7 @@ local function set_groups()
 		Cursor = { fg = colors.bg, bg = colors.fg },
 		lCursor = { link = "Cursor" },
 		CursorIM = { link = "Cursor" },
-		CursorLine = { bg = colors.bgOption },
+		CursorLine = { bg = colors.bgFloat },
 		CursorColumn = { link = "CursorLine" },
 		Directory = { fg = colors.green },
 		DiffAdd = { bg = bg, fg = diff_add },
